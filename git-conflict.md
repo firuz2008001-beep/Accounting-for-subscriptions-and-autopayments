@@ -4,3 +4,5 @@
 # Описание конфликта
 Конфликт возник в project-notes.md при слиянии feature/conflict-test в main.
 Обе ветки меняли строку о дате релиза. Конфликт решен вручную.
+# Описание конфликта
+Конфликт возник в project-notes.md при слиянии feature/conflict-test в main.
